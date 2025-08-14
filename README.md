@@ -1,6 +1,6 @@
-<!-- Animated Crypt Header GIF -->
+<!-- Matrix Hacking Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Crypt Text Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Matrix Falling Code" width="400"/>
 </p>
 
 <!-- Header -->
