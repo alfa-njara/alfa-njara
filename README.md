@@ -4,13 +4,13 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+[Your+Name];Web+Developer+%26+Tech+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+RANDRIATINARIVO Njarasoa Alfa;Web+Developer+%26+Tech+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Alfa Njara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
