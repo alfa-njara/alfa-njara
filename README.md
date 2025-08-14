@@ -1,5 +1,5 @@
 <!-- Welcome Header -->
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <!-- Typing Animation with Line Break -->
 <p align="center">
@@ -15,13 +15,13 @@
 
 <!-- Contact Links -->
 <p align="center">
-  <a href="https://wa.me/TON-NUMERO" target="_blank">
+  <a href="https://wa.me/+261343107514" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://facebook.com/TON-PROFIL" target="_blank">
+  <a href="https://facebook.com/alfanjara4" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:TON-EMAIL">
+  <a href="mailto:alfanjara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
