@@ -1,10 +1,10 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Header GIF" width="400"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Header GIF" width="500" style="display:block; margin:auto;" />
 </p>
 
 <!-- Header Text -->
-<h1 align="center">Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
+<h1 align="center">👋 Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
 
 <!-- Typing Animation -->
 <p align="center">
