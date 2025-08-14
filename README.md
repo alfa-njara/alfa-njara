@@ -1,14 +1,14 @@
+<!-- Animated Welcome GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Welcome GIF" width="200"/>
+</p>
+
 <!-- Header -->
 <h1 align="center">Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Tech+Enthusiast;Always+learning+something+new;Let's+build+cool+stuff+together!" alt="Typing Animation" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlfaNjara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Contact Links -->
