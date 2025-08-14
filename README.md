@@ -1,14 +1,14 @@
+<!-- Background GIF Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" alt="Hello World GIF" width="100%" style="display:block; margin:auto;" />
+</p>
+
 <!-- Header Text -->
-<h1 align="center">Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
+<h1 align="center" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white;">👋 Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Tech+Enthusiast;Always+learning+something+new;Let's+build+cool+stuff+together!" alt="Typing Animation" />
-</p>
-
-<!-- GIF below typing animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" alt="Hello World GIF" width="500" style="display:block; margin:auto;" />
 </p>
 
 <!-- Contact Links -->
