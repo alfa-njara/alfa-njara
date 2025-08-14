@@ -1,6 +1,6 @@
-<!-- Animated Welcome GIF -->
+<!-- Animated Crypt Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Welcome GIF" width="200"/>
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Crypt Text Animation" width="300"/>
 </p>
 
 <!-- Header -->
