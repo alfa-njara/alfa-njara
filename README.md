@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
+<h1 align="center">Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
 
 <!-- Typing Animation -->
 <p align="center">
