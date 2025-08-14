@@ -1,9 +1,9 @@
-<!-- Matrix Hacking Animation -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Matrix Falling Code" width="400"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Header GIF" width="400"/>
 </p>
 
-<!-- Header -->
+<!-- Header Text -->
 <h1 align="center">Hi, I'm RANDRIATINARIVO Njarasoa Alfa</h1>
 
 <!-- Typing Animation -->
